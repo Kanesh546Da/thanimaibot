@@ -11,7 +11,7 @@ class Config(object):
     LOGGER = True
   
     TEMP_DOWNLOAD_DIRECTORY = 'None'
-    API_ID = 13303918
+    API_ID = '13303918'
     API_HASH = "24f473f4478796b9a416e4e68b49ab25"
     TOKEN = "5063706531:AAFeR7pzJronQkpyuYxHxCDhcGYurnQxy8c"
     OWNER_ID = 916028993
